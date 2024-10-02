@@ -1,0 +1,48 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card { fill: #ffffff; stroke: #e1e4e8; stroke-width: 1px; }
+    .logo { fill: #f6f8fa; }
+    .title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; }
+    .info { font-family: Arial, sans-serif; font-size: 14px; fill: #586069; }
+    .description { font-family: Arial, sans-serif; font-size: 16px; fill: #24292e; }
+  </style>
+  
+  <!-- EHRMamba Card -->
+  <g transform="translate(10,10)">
+    <rect width="380" height="380" rx="8" class="card"/>
+    <rect x="10" y="10" width="360" height="120" rx="4" class="logo"/>
+    <image x="140" y="20" width="100" height="100" href="odyssey.png"/>
+    <text x="190" y="160" text-anchor="middle" class="title">EHRMamba</text>
+    <a href="https://vectorinstitute.github.io/EHRMamba">
+      <image x="70" y="180" width="100" height="28" href="https://img.shields.io/badge/Project-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://github.com/VectorInstitute/EHRMamba">
+      <image x="210" y="180" width="100" height="28" href="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <text x="190" y="240" text-anchor="middle" class="info">Paper: NeurIPS ML4H 2024 (U/R)</text>
+    <text x="190" y="260" text-anchor="middle" class="info">Vector Institute, University of Toronto</text>
+    <text x="190" y="300" text-anchor="middle" width="360" class="description">State-of-the-art foundation model for Electronic</text>
+    <text x="190" y="320" text-anchor="middle" width="360" class="description">Health Records. Part of Odyssey, the largest</text>
+    <text x="190" y="340" text-anchor="middle" width="360" class="description">open-source library for full-stack EHR modeling.</text>
+  </g>
+
+  <!-- CodonTransformer Card -->
+  <g transform="translate(410,10)">
+    <rect width="380" height="380" rx="8" class="card"/>
+    <rect x="10" y="10" width="360" height="120" rx="4" class="logo"/>
+    <image x="140" y="20" width="100" height="100" href="codontransformer.png"/>
+    <text x="190" y="160" text-anchor="middle" class="title">CodonTransformer</text>
+    <a href="https://adibvafa.github.io/CodonTransformer">
+      <image x="70" y="180" width="100" height="28" href="https://img.shields.io/badge/Project-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+    <a href="https://github.com/Adibvafa/CodonTransformer">
+      <image x="210" y="180" width="100" height="28" href="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <text x="190" y="240" text-anchor="middle" class="info">Paper: Nature Communications (U/R)</text>
+    <text x="190" y="260" text-anchor="middle" class="info">INSERM (France), University of Toronto</text>
+    <text x="190" y="300" text-anchor="middle" width="360" class="description">State-of-the-art model for optimizing DNA</text>
+    <text x="190" y="320" text-anchor="middle" width="360" class="description">sequences for protein expression in 164 organisms.</text>
+    <text x="190" y="340" text-anchor="middle" width="360" class="description">Part of the largest open-source library for</text>
+    <text x="190" y="360" text-anchor="middle" width="360" class="description">codon optimization.</text>
+  </g>
+</svg>
