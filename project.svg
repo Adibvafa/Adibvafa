@@ -1,30 +1,96 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 900 450" width="900" height="450" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .container {
           font-family: Arial, sans-serif;
           padding: 20px;
-          background-color: #f0f0f0;
+          background-color: #f8f9fa;
           border-radius: 10px;
         }
-        h1 { color: #2c3e50; }
+        h1 {
+          color: #2c3e50;
+          font-size: 24px;
+          margin-bottom: 20px;
+        }
+        .projects {
+          display: flex;
+          justify-content: space-between;
+          gap: 20px;
+        }
         .project {
           background-color: white;
-          padding: 15px;
-          margin-bottom: 10px;
+          padding: 20px;
+          border-radius: 8px;
+          box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+          width: 48%;
+        }
+        .project-image {
+          width: 150px;
+          height: 150px;
+          margin: 0 auto 15px;
+          display: block;
+        }
+        .project h2 {
+          text-align: center;
+          color: #34495e;
+          font-size: 20px;
+          margin-bottom: 15px;
+        }
+        .buttons {
+          display: flex;
+          justify-content: center;
+          gap: 10px;
+          margin-bottom: 15px;
+        }
+        .button {
+          padding: 5px 10px;
           border-radius: 5px;
+          color: white;
+          font-weight: bold;
+          text-decoration: none;
+          font-size: 14px;
+        }
+        .website { background-color: #4285F4; }
+        .github { background-color: #333; }
+        .paper { background-color: #e9006d; }
+        .project-info {
+          text-align: center;
+          color: #7f8c8d;
+          font-size: 14px;
+          margin-bottom: 10px;
+        }
+        .project-description {
+          color: #34495e;
+          font-size: 14px;
+          text-align: justify;
         }
       </style>
       <div class="container">
-        <h1>My GitHub Projects</h1>
-        <div class="project">
-          <h2>EHRMamba</h2>
-          <p>State-of-the-art foundation model for Electronic Health Records</p>
-        </div>
-        <div class="project">
-          <h2>CodonTransformer</h2>
-          <p>Optimizing DNA sequences for protein expression</p>
+        <h1>🚀 Featured Research</h1>
+        <div class="projects">
+          <div class="project">
+            <img src="https://via.placeholder.com/150" alt="EHRMamba" class="project-image" />
+            <h2>EHRMamba</h2>
+            <div class="buttons">
+              <a href="#" class="button website">WEBSITE</a>
+              <a href="#" class="button github">GITHUB</a>
+              <a href="#" class="button paper">PAPER</a>
+            </div>
+            <p class="project-info">NeurIPS ML4H 2024 (U/R)<br>Vector Institute, University of Toronto</p>
+            <p class="project-description">Developed a state-of-the-art foundation model for Electronic Health Records, and Odyssey, the largest open-source library for full-stack EHR modeling.</p>
+          </div>
+          <div class="project">
+            <img src="https://via.placeholder.com/150" alt="CodonTransformer" class="project-image" />
+            <h2>CodonTransformer</h2>
+            <div class="buttons">
+              <a href="#" class="button website">WEBSITE</a>
+              <a href="#" class="button github">GITHUB</a>
+              <a href="#" class="button paper">PAPER</a>
+            </div>
+            <p class="project-info">Nature Communications (U/R)<br>INSERM (France), University of Toronto</p>
+            <p class="project-description">Engineered a state-of-the-art model to optimize DNA sequences for protein expression in 164 organisms, and released the largest toolkit for codon optimization.</p>
+          </div>
         </div>
       </div>
     </div>
