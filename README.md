@@ -78,7 +78,7 @@
 ### 🧬 Computational Biology & Neuroscience
 - **INSERM, France**: Optimizing DNA sequences for protein expression (Jul 2023 - Sep 2024)
 - **iGEM Toronto**: Generating novel plasmids with antimicrobial properties (Mar 2024 - Present)
-- **UTMIST**: Predicting protein function, won 2nd prize in CUCAI 2024 (Aug 2023 - Jul 2024)
+- **UofT Machine Intelligence Team**: Predicting protein function, won 2nd prize in CUCAI 2024 (Aug 2023 - Jul 2024)
 - **UofT Filion & Koyama Lab**: Translating zebrafish brain activity to body movements (May 2023 - Present)
 
 ### 🚀 Leadership & Initiatives
