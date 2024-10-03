@@ -26,7 +26,7 @@
     <tr>
       <td width="50%" valign="top">
         <div align="center">
-          <img src="odyssey.png" alt="EHRMamba Logo" width="32%">
+          <img src="odyssey2.png" alt="EHRMamba Logo" width="32%">
         </div>
         <h3 align="center"><strong>EHRMamba</strong></h3>
         <p align="center">
@@ -36,10 +36,10 @@
         </p>
         <p align="center">
           <strong> NeurIPS ML4H 2024 </strong>(U/R)<br>
-          Vector Institute, University of Toronto
+          <strong>Vector Institute, University of Toronto</strong>
         </p>
         <p align="left">
-          State-of-the-art foundation model for Electronic Health Records. Part of Odyssey, the largest open-source library for full-stack EHR modeling.
+          Developed a state-of-the-art foundation model for Electronic Health Records, and Odyssey, the largest open-source library for full-stack EHR modeling.
         </p>
       </td>
       <td width="50%" valign="top">
@@ -54,10 +54,10 @@
         </p>
         <p align="center">
           <strong> Nature Communications </strong> (U/R)<br>
-          INSERM (France), University of Toronto
+          <strong>INSERM (France), University of Toronto</strong>
         </p>
         <p align="left">
-          State-of-the-art model for optimizing DNA sequences for protein expression in 164 organisms. Part of the largest open-source library for codon optimization.
+          Engineered a state-of-the-art model to optimize DNA sequences for protein expreesion in 164 organisms, and released the largest toolkit for codon optimization.
         </p>
       </td>
     </tr>
@@ -82,8 +82,8 @@
 - **UofT Filion & Koyama Lab**: Translating zebrafish brain activity to body movements (May 2023 - Present)
 
 ### 🚀 Leadership & Initiatives
-- **Google Developer Student Club**: Leading GDSC @ UTSC (Aug 2023 - Present)
 - **GenAI Genesis**: Organizing Canada's largest AI hackathon as Founder & Co-Chair (Sep 2023 - Present)
+- **Google Developer Student Club**: Leading GDSC @ UTSC (Aug 2023 - Present)
 - **International Biology Olympiad**: Silver Medalist (2021)
 
 <br>
@@ -120,7 +120,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adibvafa&show_icons=true&theme=gotham" alt="Adib's GitHub stats" />
-  &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adibvafa&layout=compact&theme=gotham" alt="Top Languages" />
 </div>
 
