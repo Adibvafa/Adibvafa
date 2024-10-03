@@ -69,22 +69,22 @@
 ## 💼 Experience
 
 ### 🩺 Healthcare AI
-- **Applied Machine Learning Engineer** at Vector Institute (Jan 2024 - Present)
-- **Machine Learning Engineer** at University Health Network (Sep 2024 - Present)
-- **Machine Learning Researcher** at Broad Institute of MIT and Harvard (Aug 2024 - Present)
-- **Machine Learning Researcher** at Mayo Clinic (Jul 2024 - Present)
-- **Computer Vision Researcher** at BorealisAI (Mar 2024 - Aug 2024)
+- **Vector Institute**: Developing multimodal EHR foundation models (Jan 2024 - Present)
+- **University Health Network**: Building multimodal medical agent for chest X-ray (Sep 2024 - Present)
+- **Broad Institute of MIT and Harvard**: Researching safety and privacy of healthcare models (Aug 2024 - Present)
+- **Mayo Clinic**: Detecting cancer using contrastive learning of pathology and radiology images (Jul 2024 - Present)
+- **BorealisAI**: Generating radiology reports with medical LLMs (Mar 2024 - Aug 2024)
 
 ### 🧬 Computational Biology & Neuroscience
-- **Machine Learning Researcher** at INSERM, France (Jul 2023 - Sep 2024)
-- **Computational Biology Researcher** at iGEM Toronto (Mar 2024 - Present)
-- **Machine Learning Developer** at UTMIST, 2nd prize in CUCAI 2024 (Aug 2023 - Jul 2024)
-- **Computer Vision Researcher** at UofT Filion & Koyama Lab (May 2023 - Present)
+- **INSERM, France**: Optimizing DNA sequences for protein expression (Jul 2023 - Sep 2024)
+- **iGEM Toronto**: Generating novel plasmids with antimicrobial properties (Mar 2024 - Present)
+- **UTMIST**: Predicting protein function, won 2nd prize in CUCAI 2024 (Aug 2023 - Jul 2024)
+- **UofT Filion & Koyama Lab**: Translating zebrafish brain activity to body movements (May 2023 - Present)
 
 ### 🚀 Leadership & Initiatives
-- **Founder & Lead** of Google Developer Student Club at UTSC (Aug 2023 - Present)
-- **Founder & Co-Chair** of GenAI Genesis, Canada's largest AI hackathon (Sep 2023 - Present)
-- **Silver Medal**, International Biology Olympiad (2021)
+- **Google Developer Student Club**: Leading GDSC @ UTSC (Aug 2023 - Present)
+- **GenAI Genesis**: Organizing Canada's largest AI hackathon as Founder & Co-Chair (Sep 2023 - Present)
+- **International Biology Olympiad**: Silver Medalist (2021)
 
 <br>
 
