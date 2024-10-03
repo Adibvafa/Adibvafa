@@ -70,7 +70,7 @@
 
 ### 🩺 Healthcare AI
 - **Vector Institute**: Developing multimodal EHR foundation models (Jan 2024 - Present)
-- **University Health Network**: Building multimodal medical agent for chest X-ray (Sep 2024 - Present)
+- **University Health Network (WangLab)**: Building multimodal medical agent for chest X-ray (Sep 2024 - Present)
 - **Broad Institute of MIT and Harvard**: Researching safety and privacy of healthcare models (Aug 2024 - Present)
 - **Mayo Clinic**: Detecting cancer using contrastive learning of pathology and radiology images (Jul 2024 - Present)
 - **BorealisAI**: Generating radiology reports with medical LLMs (Mar 2024 - Aug 2024)
