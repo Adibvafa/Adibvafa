@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Machine Learning at Vector Institute and University Health Network, Computer Science and Neuroscience student at the University of Toronto, ambitious to push the boundaries of developing Artificial and understanding Biological Intelligence.
+  Machine Learning at Vector Institute and University Health Network, Computer Science and Neuroscience student at the University of Toronto, ambitious to push the boundaries of developing Artificial Intelligence and understanding Biological Intelligence.
 </p>
 
 ---
