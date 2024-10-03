@@ -19,42 +19,44 @@
 ---
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Featured Research
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <div style="text-align: center;">
-          <img src="odyssey.png" alt="EHRMamba Logo" width="30%" style="display: inline-block;">
+        <div align="center">
+          <img src="odyssey.png" alt="EHRMamba Logo" width="32%">
         </div>
         <h3 align="center"><strong>EHRMamba</strong></h3>
         <p align="center">
-          <a href="https://vectorinstitute.github.io/EHRMamba"><img src="https://img.shields.io/badge/Project-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Project"></a>
+          <a href="https://vectorinstitute.github.io/EHRMamba"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
           <a href="https://github.com/VectorInstitute/EHRMamba"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+          <a href="https://arxiv.org/abs/2405.14567"><img src="https://img.shields.io/badge/Paper-e9006d?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
         </p>
         <p align="center">
-          <strong>Paper:</strong> NeurIPS ML4H 2024 (U/R)<br>
+          <strong> NeurIPS ML4H 2024 </strong>(U/R)<br>
           Vector Institute, University of Toronto
         </p>
-        <p align="center">
+        <p align="left">
           State-of-the-art foundation model for Electronic Health Records. Part of Odyssey, the largest open-source library for full-stack EHR modeling.
         </p>
       </td>
       <td width="50%" valign="top">
-        <div style="text-align: center;">
-          <img src="codontransformer.png" alt="CodonTransformer Logo" width="30%" style="display: inline-block;">
+        <div align="center">
+          <img src="codontransformer.png" alt="CodonTransformer Logo" width="30%">
         </div>
         <h3 align="center"><strong>CodonTransformer</strong></h3>
         <p align="center">
-          <a href="https://adibvafa.github.io/CodonTransformer"><img src="https://img.shields.io/badge/Project-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Project"></a>
+          <a href="https://adibvafa.github.io/CodonTransformer"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
           <a href="https://github.com/Adibvafa/CodonTransformer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+          <a href="https://www.biorxiv.org/content/10.1101/2024.09.13.612903"><img src="https://img.shields.io/badge/Paper-e9006d?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
         </p>
         <p align="center">
-          <strong>Paper:</strong> Nature Communications (U/R)<br>
+          <strong> Nature Communications </strong> (U/R)<br>
           INSERM (France), University of Toronto
         </p>
-        <p align="center">
+        <p align="left">
           State-of-the-art model for optimizing DNA sequences for protein expression in 164 organisms. Part of the largest open-source library for codon optimization.
         </p>
       </td>
@@ -117,9 +119,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adibvafa&show_icons=true&theme=react" alt="Adib's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adibvafa&show_icons=true&theme=gotham" alt="Adib's GitHub stats" />
   &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adibvafa&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adibvafa&layout=compact&theme=gotham" alt="Top Languages" />
 </div>
 
 <br>
