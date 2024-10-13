@@ -75,8 +75,9 @@
 - **Mayo Clinic**: Detecting cancer using contrastive learning of pathology and radiology images (Jul 2024 - Present)
 - **BorealisAI**: Generating radiology reports with medical LLMs (Mar 2024 - Aug 2024)
 
-### 🧬 Computational Biology & Neuroscience
+### 🧬 Computational Biology, Chemistry, Neuroscience
 - **INSERM, France**: Optimizing DNA sequences for protein expression (Jul 2023 - Sep 2024)
+- **XAtoms - Chief AI Officer**: Developing novel photocatalytic structures to clean water (Oct 2024 - Present)
 - **iGEM Toronto**: Generating novel plasmids with antimicrobial properties (Mar 2024 - Present)
 - **UofT Machine Intelligence Team**: Predicting protein function, won 2nd prize in CUCAI 2024 (Aug 2023 - Jul 2024)
 - **UofT Filion & Koyama Lab**: Translating zebrafish brain activity to body movements (May 2023 - Present)
