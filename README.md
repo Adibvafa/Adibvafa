@@ -73,7 +73,7 @@
 - **University Health Network (WangLab)**: Building multimodal medical agent for chest X-ray (Sep 2024 - Present)
 - **Broad Institute of MIT and Harvard**: Researching safety and privacy of healthcare models (Aug 2024 - Present)
 - **Mayo Clinic**: Detecting cancer using contrastive learning of pathology and radiology images (Jul 2024 - Present)
-- **BorealisAI**: Generating radiology reports with medical LLMs (Mar 2024 - Aug 2024)
+- **BorealisAI**: Generating radiology reports with medical language models (Mar 2024 - Aug 2024)
 
 ### 🧬 Computational Biology, Chemistry, Neuroscience
 - **INSERM, France**: Optimizing DNA sequences for protein expression (Jul 2023 - Sep 2024)
