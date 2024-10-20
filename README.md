@@ -35,8 +35,6 @@
           <a href="https://arxiv.org/abs/2405.14567"><img src="https://img.shields.io/badge/Paper-e9006d?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
         </p>
         <p align="center">
-<!--           <strong> NeurIPS ML4H 2024 </strong>(U/R)<br>
-          <strong>Vector Institute, University of Toronto</strong> -->
         </p>
         <p align="left">
           Developed a state-of-the-art foundation model for Electronic Health Records, and Odyssey, the largest open-source library for full-stack EHR modeling.
@@ -53,8 +51,6 @@
           <a href="https://www.biorxiv.org/content/10.1101/2024.09.13.612903"><img src="https://img.shields.io/badge/Paper-e9006d?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
         </p>
         <p align="center">
-<!--           <strong> Nature Communications </strong> (U/R)<br>
-          <strong>INSERM (France), University of Toronto</strong> -->
         </p>
         <p align="left">
           Engineered a state-of-the-art model to optimize DNA sequences for protein expreesion in 164 organisms, and released the largest toolkit for codon optimization.
