@@ -31,7 +31,7 @@
         <h3 align="center"><strong>EHRMamba</strong></h3>
         <p align="center">
           <a href="https://vectorinstitute.github.io/EHRMamba"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-          <a href="https://github.com/VectorInstitute/EHRMamba"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+          <a href="https://github.com/VectorInstitute/odyssey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
           <a href="https://arxiv.org/abs/2405.14567"><img src="https://img.shields.io/badge/Paper-e9006d?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
         </p>
         <p align="center">
