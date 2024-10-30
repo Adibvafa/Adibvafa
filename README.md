@@ -116,7 +116,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adibvafa&show_icons=true&theme=gotham" alt="Adib's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adibvafa&show_icons=true&theme=gotham" alt="Adib's GitHub Stats" />
   &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adibvafa&layout=compact&theme=gotham" alt="Top Languages" />
 </div>
