@@ -24,7 +24,7 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
+      <td width="33%" valign="top">
         <div align="center">
           <img src="odyssey2.png" alt="EHRMamba Logo" width="32%">
         </div>
@@ -34,13 +34,11 @@
           <a href="https://github.com/VectorInstitute/odyssey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
           <a href="https://arxiv.org/abs/2405.14567"><img src="https://img.shields.io/badge/Paper-e9006d?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
         </p>
-        <p align="center">
-        </p>
         <p align="left">
           Developed a state-of-the-art foundation model for Electronic Health Records, and Odyssey, the largest open-source library for full-stack EHR modeling.
         </p>
       </td>
-      <td width="50%" valign="top">
+      <td width="33%" valign="top">
         <div align="center">
           <img src="codontransformer.png" alt="CodonTransformer Logo" width="30%">
         </div>
@@ -50,10 +48,22 @@
           <a href="https://github.com/Adibvafa/CodonTransformer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
           <a href="https://www.biorxiv.org/content/10.1101/2024.09.13.612903"><img src="https://img.shields.io/badge/Paper-e9006d?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
         </p>
-        <p align="center">
-        </p>
         <p align="left">
           Engineered a state-of-the-art model to optimize DNA sequences for protein expreesion in 164 organisms, and released the largest toolkit for codon optimization.
+        </p>
+      </td>
+      <td width="33%" valign="top">
+        <div align="center">
+          <img src="medrax_logo.png" alt="CodonTransformer Logo" width="30%">
+        </div>
+        <h3 align="center"><strong>MedRAX</strong></h3>
+        <p align="center">
+          <a href="https://bowang-lab.github.io/MedRAX"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+          <a href="https://github.com/bowang-lab/MedRAX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+          <a href="https://arxiv.org/abs/2502.02673"><img src="https://img.shields.io/badge/Paper-e9006d?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
+        </p>
+        <p align="left">
+          Built the world's most advanced medical reasoning agent for chest x-ray interpretation, outperforming general purpose and medical trained models.
         </p>
       </td>
     </tr>
