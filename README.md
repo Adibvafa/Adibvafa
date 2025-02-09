@@ -64,14 +64,14 @@
 
 ## 💼 Experience
 
-### 🩺 Healthcare AI
+### 🩺 Health AI
 - **University Health Network (WangLab)**: Building medical reasoning agents for chest X-ray (Sep 2024 - Present)
 - **Vector Institute**: Developing multimodal medical LLMs and EHR foundation models (Jan 2024 - December 2024)
 - **Broad Institute of MIT and Harvard**: Researching safety and privacy of healthcare models (Aug 2024 - February 2024)
 - **Mayo Clinic**: Detecting cancer using contrastive learning of pathology & radiology images (Jul 2024 - October 2024)
 - **BorealisAI**: Generating radiology reports with medical language models (Mar 2024 - Aug 2024)
 
-### 🧬 Computational Biology, Chemistry, Neuroscience
+### 🧬 Computational Biology & Neuroscience
 - **Vector Institute, UHN**: Building biological reasoning models and state-of-the-art DNA foundation models (January 2025 - Present)
 - **INSERM, France**: Optimizing DNA sequences for protein expression (Jul 2023 - Sep 2024)
 - **XAtoms - AI Lead**: Developing novel photocatalytic structures to clean water (Oct 2024 - Present)
@@ -80,7 +80,7 @@
 - **UofT Filion & Koyama Lab**: Translating zebrafish brain activity to body movements (May 2023 - August 2023)
 
 ### 🚀 Leadership & Initiatives
-- **GenAI Genesis**: Organizing Canada's largest AI hackathon as Founder & Co-Chair (Sep 2023 - Present)
+- **GenAI Genesis**: Organizing Canada's largest AI hackathon as founder & co-chair (Sep 2023 - Present)
 - **Google Developer Student Club**: Leading GDSC @ UTSC (Aug 2023 - Present)
 - **International Biology Olympiad**: Silver Medalist (2021)
 
