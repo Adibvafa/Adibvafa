@@ -72,6 +72,7 @@
 - **BorealisAI**: Generating radiology reports with medical language models (Mar 2024 - Aug 2024)
 
 ### 🧬 Computational Biology, Chemistry, Neuroscience
+- **Vector Institute, UHN**: Building biological reasoning models and state-of-the-art DNA foundation models (January 2025 - Present)
 - **INSERM, France**: Optimizing DNA sequences for protein expression (Jul 2023 - Sep 2024)
 - **XAtoms - AI Lead**: Developing novel photocatalytic structures to clean water (Oct 2024 - Present)
 - **iGEM Toronto**: Generating novel plasmids with antibacterial properties (Mar 2024 - October 2024)
