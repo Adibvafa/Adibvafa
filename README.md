@@ -26,7 +26,7 @@
     <tr>
       <td width="33%" valign="top">
         <div align="center">
-          <img src="odyssey2.png" alt="EHRMamba Logo" width="32%">
+          <img src="odyssey2.png" alt="EHRMamba Logo" width="40%">
         </div>
         <h3 align="center"><strong>EHRMamba</strong></h3>
         <p align="center">
@@ -40,7 +40,7 @@
       </td>
       <td width="33%" valign="top">
         <div align="center">
-          <img src="codontransformer.png" alt="CodonTransformer Logo" width="30%">
+          <img src="codontransformer.png" alt="CodonTransformer Logo" width="40%">
         </div>
         <h3 align="center"><strong>CodonTransformer</strong></h3>
         <p align="center">
@@ -54,7 +54,7 @@
       </td>
       <td width="33%" valign="top">
         <div align="center">
-          <img src="medrax_logo.png" alt="CodonTransformer Logo" width="30%">
+          <img src="medrax_logo.png" alt="CodonTransformer Logo" width="40%">
         </div>
         <h3 align="center"><strong>MedRAX</strong></h3>
         <p align="center">
