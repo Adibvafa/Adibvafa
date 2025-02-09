@@ -49,7 +49,7 @@
           <a href="https://www.biorxiv.org/content/10.1101/2024.09.13.612903"><img src="https://img.shields.io/badge/Paper-e9006d?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
         </p>
         <p align="left">
-          Engineered a state-of-the-art model to optimize DNA sequences for protein expreesion in 164 organisms, releasing the largest toolkit for codon optimization.
+          Engineered a SOTA model to optimize DNA sequences for protein expreesion in 164 organisms, releasing the largest toolkit for codon optimization.
         </p>
       </td>
       <td width="33%" valign="top">
