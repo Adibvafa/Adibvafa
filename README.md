@@ -91,7 +91,7 @@
 
 ### 🚀 Leadership & Initiatives
 - **GenAI Genesis**: Organizing Canada's largest AI hackathon as founder & co-chair (Sep 2023 - Present)
-- **Google Developer Student Club**: Leading GDSC @ UTSC (Aug 2023 - Present)
+- **Google Developer Group**: Leading GDG at University of Toronto (Aug 2023 - April 2025)
 - **International Biology Olympiad**: Silver Medalist (2021)
 
 <br>
