@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Machine Learning at Vector Institute and University Health Network, Computer Science and Neuroscience student at the University of Toronto, ambitious to push the boundaries of developing Artificial Intelligence and understanding Biological Intelligence.
+  Machine Learning at Cohere, Vector Institute and University Health Network, Computer Science and Neuroscience student at the University of Toronto, ambitious to push the boundaries of developing Artificial Intelligence and understanding Biological Intelligence.
 </p>
 
 ---
@@ -84,7 +84,7 @@
 ### 🧬 Computational Biology & Neuroscience
 - **Vector Institute, UHN**: Building biological reasoning models and state-of-the-art DNA foundation models (January 2025 - Present)
 - **INSERM, France**: Optimizing DNA sequences for protein expression (Jul 2023 - Sep 2024)
-- **XAtoms - AI Lead**: Developing novel photocatalytic structures to clean water (Oct 2024 - April 2025)
+- **Xatoms**: Developing novel photocatalytic structures to clean water (Oct 2024 - December 2024)
 - **iGEM Toronto**: Generating novel plasmids with antibacterial properties (Mar 2024 - October 2024)
 - **UofT Machine Intelligence Team**: Predicting protein function with AI, won 2nd prize in CUCAI 2024 (Aug 2023 - Jul 2024)
 - **UofT Filion & Koyama Lab**: Translating zebrafish brain activity to body movements (May 2023 - August 2023)
