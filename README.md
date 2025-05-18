@@ -42,7 +42,7 @@
         <div align="center">
           <img src="medrax_logo.png" alt="CodonTransformer Logo" width="40%">
         </div>
-        <h3 align="center"><strong>MedRAX</strong></h3><h4 align="center">(U/R)</h4>
+        <h3 align="center"><strong>MedRAX</strong></h3><h4 align="center">ICML 2025</h4>
         <p align="center">
           <a href="https://bowang-lab.github.io/MedRAX"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
           <a href="https://github.com/bowang-lab/MedRAX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
