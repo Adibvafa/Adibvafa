@@ -54,16 +54,16 @@
       </td>
        <td width="33%" valign="top">
         <div align="center">
-          <img src="odyssey2.png" alt="EHRMamba Logo" width="40%">
+          <img src="dna.png" alt="BioReason Logo" width="40%">
         </div>
-        <h3 align="center"><strong>EHRMamba</strong></h3><h4 align="center">NeurIPS ML4H 2024</h4>
+        <h3 align="center"><strong>BioReason</strong></h3><h4 align="center">Under Review</h4>
         <p align="center">
-          <a href="https://vectorinstitute.github.io/EHRMamba"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-          <a href="https://github.com/VectorInstitute/odyssey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-          <a href="https://arxiv.org/abs/2405.14567"><img src="https://img.shields.io/badge/Paper-e9006d?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
+          <a href="https://bowang-lab.github.io/BioReason/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+          <a href="https://github.com/bowang-lab/BioReason"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+          <a href="https://www.arxiv.org/abs/2505.23579"><img src="https://img.shields.io/badge/Paper-e9006d?style=for-the-badge&logo=arxiv&logoColor=white" alt="Paper"></a>
         </p>
         <p align="left">
-          Developed a state-of-the-art foundation model for Electronic Health Records, and Odyssey, the largest open-source library for full-stack EHR modeling.
+          Created the first reasoning model in biology that would reason on DNA and natural language to predict how a mutation would lead to a disease.
         </p>
       </td>
     </tr>
