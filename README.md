@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong> 🤖 Machine Learning Engineer &nbsp; | &nbsp; 🧠 Neuroscientist &nbsp; | &nbsp; 🌐 Community Builder</strong>
+  <strong> 🤖 Machine Learning Engineer &nbsp; | &nbsp; 🧠 Biologist &nbsp; | &nbsp; 🌐 Community Builder</strong>
 </p>
 
 <p align="center">
