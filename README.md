@@ -1,4 +1,4 @@
-<h1 align="center"> 🌸 Hello, I'm Adib! 🍁</h1>
+<h1 align="center"> Hello, I'm Adib! 🍁</h1>
 
 <p align="center">
   <a href="https://adibvafa.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"></a>
