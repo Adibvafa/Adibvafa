@@ -56,7 +56,7 @@
         <div align="center">
           <img src="dna.png" alt="BioReason Logo" width="40%">
         </div>
-        <h3 align="center"><strong>BioReason</strong></h3><h4 align="center">Under Review</h4>
+        <h3 align="center"><strong>BioReason</strong></h3><h4 align="center">NeurIPS 2025</h4>
         <p align="center">
           <a href="https://bowang-lab.github.io/BioReason/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
           <a href="https://github.com/bowang-lab/BioReason"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
