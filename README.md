@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Adib! 🍁</h1>
 
 <p align="center">
-  <a href="https://adibvafa.github.io/"><img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"></a>
+  <a href="https://adibvafa.com/"><img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/adibvafa-fallahpour/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://scholar.google.ca/citations?hl=en&user=4qvKTooAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://x.com/adibvafa"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
