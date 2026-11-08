@@ -12,7 +12,6 @@
   <strong> 🤖 AI Researcher &nbsp; | &nbsp; 🧠 Biologist &nbsp; | &nbsp; 🌐 Community Builder</strong>
 </p>
 
----
 <br>
 
 ## 🚀 Featured Research
