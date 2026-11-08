@@ -9,11 +9,7 @@
 </p>
 
 <p align="center">
-  <strong> 🤖 Machine Learning Engineer &nbsp; | &nbsp; 🧠 Biologist &nbsp; | &nbsp; 🌐 Community Builder</strong>
-</p>
-
-<p align="center">
-  Machine Learning at Cohere, Vector Institute and University Health Network, Computer Science and Neuroscience student at the University of Toronto, ambitious to push the boundaries of developing Artificial Intelligence and understanding Biological Intelligence.
+  <strong> 🤖 AI Researcher &nbsp; | &nbsp; 🧠 Biologist &nbsp; | &nbsp; 🌐 Community Builder</strong>
 </p>
 
 ---
